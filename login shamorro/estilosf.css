@@ -28,7 +28,7 @@ body {
 h1{
     text-align: center;
     color: #1a2537;
-    font-size: 40px;
+    font-size: 30px;
 }
 input[type="text"],
 input[type="password"]{
@@ -64,11 +64,11 @@ p{
 }
 .link{
     text-decoration: none;
-      color: #1a2537;
+      color: #829b3f;
     font-weight: 600;
 }
 .link:hover{
-     color: cadetblue;
+     color: rgb(69, 240, 1);
 }
 @media(min-width:768px)
 {
